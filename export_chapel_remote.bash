@@ -1,0 +1,7 @@
+export CHPL_COMM=gasnet
+export CHPL_COMM_SUBSTRATE=udp
+export GASNET_SPAWNFN=S
+export GASNET_SSH_CMD=ssh
+export GASNET_SSH_OPTIONS=-x
+export GASNET_SSH_SERVERS="first second"
+export CHPL_RT_MASTERIP=192.168.200.1
